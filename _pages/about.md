@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>mobile: 86-15921616649</p>
-    <p>No. 38 Zheda Road, Zhejiang University</p>
+    <p>No.38 Zheda Road, Zhejiang University</p>
     <p>Hangzhou, China</p>
 
 news: false  # includes a list of news items
