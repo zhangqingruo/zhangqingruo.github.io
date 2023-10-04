@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Qirun Zhang
+title: about
 permalink: /
 subtitle: <a href='#'>ImagingLab@ZJU</a>. (The page of our lab is under construction, sry)
 
